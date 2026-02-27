@@ -580,3 +580,6 @@ bash deploy.sh
 150. `alias` : créer raccourci commande  
 Exemple :
 alias ll='ls -la'
+
+
+Auteur M. FLORENT
