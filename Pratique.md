@@ -67,6 +67,9 @@ Règles :
 20. `head` : afficher les premières lignes  
    Exemple : `head -n 5 /etc/passwd`
 
+21. `nano` : editter fichier 
+   Exemple ! `nano notes.txt`
+
 ---
 
 ## 2) Lecture, tri, texte (21–40)
