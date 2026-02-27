@@ -68,7 +68,7 @@ Règles :
    Exemple : `head -n 5 /etc/passwd`
 
 21. `nano` : editter fichier 
-   Exemple ! `nano notes.txt`
+   Exemple : `nano notes.txt`
 
 ---
 
